@@ -1,0 +1,21 @@
+
+body{
+    /* background-color: red; */
+    background: linear-gradient(135deg, #00feba, #5b548a);
+    
+}
+
+.userProfile{
+    width: 50px;
+    height: 60px;
+    object-fit:cover;
+    border-radius:100%;
+}
+nav{
+    background-color: #00feba;
+    width:100%;
+}
+#dash{
+    height: 80px;
+    width: 80px;
+}
